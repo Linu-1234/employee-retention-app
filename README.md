@@ -41,12 +41,14 @@ Employee attrition, or turnover, is a major challenge for organizations. Losing 
 - The purpose of EDA was to understand which features significantly contribute to employee attrition. The target variable in this analysis is left, which indicates whether an employee left the company (1) or stayed (0).
 - Boxplots were plotted for features like satisfaction_level, average_montly_hours, and time_spend_company against left to visualize how distributions differ between employees who stayed vs. those who left.
 - Histplots and Countplots were used to compare frequency of different categorical or numerical values grouped by attrition.
+
 ![Average Monthly Hours vs Attrition](https://github.com/user-attachments/assets/50c594ec-6e5e-44c1-810d-6ef5b50faae8)
 ![Department-wise Attrition](https://github.com/user-attachments/assets/5ca6e6d9-87ff-4d71-8c74-4c5972251231)
 ![Promotion in Last 5 Years vs Attrition](https://github.com/user-attachments/assets/33138e54-fd41-443e-bf27-3e800333ec1e)
 ![Salary Level vs Attrition](https://github.com/user-attachments/assets/e106355e-fcb7-43ec-b8e9-4de6329ed37d)
 ![Satisfaction Level vs Attrition](https://github.com/user-attachments/assets/b942492a-3208-475c-856c-3626d31cdbe3)
 ![Time Spent at Company vs Attrition](https://github.com/user-attachments/assets/637de84a-c1ed-43e3-a86b-cb5a0875aec5)
+
 ### Feature Selection:
 - Based on EDA and correlation, the following features were selected:
   - satisfaction_level
@@ -92,8 +94,8 @@ Employee attrition, or turnover, is a major challenge for organizations. Losing 
 ## Final Output
 #### Interactive Streamlit App
 ![employee retention prediction](https://github.com/user-attachments/assets/fb278f77-d5ff-4315-bb07-831357388227)
-<a href="https://linu-1234-employee-retention-app-app-plsrlw.streamlit.app/">Try the app</a>
-<a href="https://github.com/Linu-1234/employee-retention-app">View project on Github</a>
+- <a href="https://linu-1234-employee-retention-app-app-plsrlw.streamlit.app/">Try the app</a>
+- <a href="https://github.com/Linu-1234/employee-retention-app">View project on Github</a>
 
 ## Conclusion
 - This project demonstrates how data science techniques can be applied to real-world HR problems. By analyzing key factors like satisfaction level, salary, promotions, and time spent in the company, we were able to create a model that helps in predicting employee attrition. The project is presented as a user-friendly web app that can be extended or integrated into larger HR analytics systems.
