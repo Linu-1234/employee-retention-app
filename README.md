@@ -32,7 +32,7 @@ Employee attrition, or turnover, is a major challenge for organizations. Losing 
 ## 4.Processes Uses
 ### Data Collection:
 - The dataset used in this project was sourced from Kaggle - HR Analytics, which contains features like employee satisfaction level, salary, promotion status, and more.
-   <a href="https://www.kaggle.com/datasets/giripujar/hr-analytics"></a>
+   <a href="https://www.kaggle.com/datasets/giripujar/hr-analytics" target="_blank">HR Analytics Dataset on Kaggle</a>
 ###  Data Cleaning and Exploration:
 - Checked for missing or null values using:data.isnull().sum()
 - Verified data types and value distributions.
@@ -92,8 +92,8 @@ Employee attrition, or turnover, is a major challenge for organizations. Losing 
 ## Final Output
 #### Interactive Streamlit App
 ![employee retention prediction](https://github.com/user-attachments/assets/fb278f77-d5ff-4315-bb07-831357388227)
-Try the app : <a href="https://linu-1234-employee-retention-app-app-plsrlw.streamlit.app/"></a>
-View project on Github : <a href="https://github.com/Linu-1234/employee-retention-app"></a>
+<a href="https://linu-1234-employee-retention-app-app-plsrlw.streamlit.app/">Try the app</a>
+<a href="https://github.com/Linu-1234/employee-retention-app">View project on Github</a>
 
 ## Conclusion
 - This project demonstrates how data science techniques can be applied to real-world HR problems. By analyzing key factors like satisfaction level, salary, promotions, and time spent in the company, we were able to create a model that helps in predicting employee attrition. The project is presented as a user-friendly web app that can be extended or integrated into larger HR analytics systems.
