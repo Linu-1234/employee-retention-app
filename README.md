@@ -31,7 +31,8 @@ Employee attrition, or turnover, is a major challenge for organizations. Losing 
 
 ## 4.Processes Uses
 ### Data Collection:
-- The dataset used in this project was sourced from Kaggle - HR Analytics, which contains features like employee satisfaction level, salary, promotion status, and more.  (<a href="https://www.kaggle.com/datasets/giripujar/hr-analytics"></a>)
+- The dataset used in this project was sourced from Kaggle - HR Analytics, which contains features like employee satisfaction level, salary, promotion status, and more.
+   <a href="https://www.kaggle.com/datasets/giripujar/hr-analytics"></a>
 ###  Data Cleaning and Exploration:
 - Checked for missing or null values using:data.isnull().sum()
 - Verified data types and value distributions.
