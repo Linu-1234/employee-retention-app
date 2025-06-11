@@ -1,6 +1,5 @@
 # Employee Attrition Prediction and Retention Analysis
-A data science project to analyze employee attrition and build a logistic regression model that predicts whether an employee will leave the organization based on certain features. The project is deployed as an interactive Streamlit web app.![Average Monthly Hours vs Attrition](https://github.com/user-attachments/assets/1154bca7-41c7-4719-b040-327215271b39)
-
+A data science project to analyze employee attrition and build a logistic regression model that predicts whether an employee will leave the organization based on certain features. The project is deployed as an interactive Streamlit web app.
 
 ## 1. Problem Statement
 Employee attrition, or turnover, is a major challenge for organizations. Losing skilled employees negatively impacts company productivity, employee morale, and financial performance. Therefore, it is important to identify the key factors that influence attrition and predict which employees are at risk of leaving. This project aims to:
